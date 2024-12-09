@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Euroleague Fantasy Challenge: Welcome to my blog
 ---
 
